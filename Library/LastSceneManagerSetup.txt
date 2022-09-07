@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/er.unity
+- path: Assets/FirebaseWebGL/Examples/Database/DatabaseExampleScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
